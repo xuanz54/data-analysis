@@ -1,6 +1,6 @@
 # 数据分析与机器学习实战项目集
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg" alt="Jupyter">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
