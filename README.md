@@ -1,12 +1,5 @@
 # 数据分析与机器学习实战项目集
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg" alt="Jupyter">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
-  <img src="https://img.shields.io/badge/Pandas-1.3+-purple.svg" alt="Pandas">
-  <img src="https://img.shields.io/badge/Scikit--learn-1.0+-red.svg" alt="Scikit-learn">
-</p>
 
 ## 项目简介
 
